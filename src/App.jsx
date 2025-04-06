@@ -1,13 +1,6 @@
 import { useState } from 'react';
 import style from './App.module.css';
-
-function Square({ value, onClick }) {
-  return (
-    <button className={style.square} onClick={onClick}>
-      {value}
-    </button>
-  );
-}
+import { Square } from './Square.jsx';
 
 function App() {
   const [board1, setBoard1] = useState([0, 1, 2, 3, 4, 5, 6, 7, 8]);
