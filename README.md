@@ -3,14 +3,17 @@ TIC TAC TOE
 Este projeto pertence a equipe Quatro Cantos
 
   -Alessandra Barbosa
+  
   -Raphael Miranda
+  
   -Rayane Cavalcanti
+  
   -Samuel Araujo
 
 ---------------------------------------------
 
 Estrutura do projeto
-
+'''
   projeto/
   ├── src/
   │   ├── Square.jsx 
@@ -21,7 +24,7 @@ Estrutura do projeto
   ├── public/
   │   └── index.html        
   └── README.md             
-
+'''
 ---------------------------------------------
 Square.jsx
 
