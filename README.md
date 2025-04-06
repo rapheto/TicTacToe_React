@@ -29,9 +29,11 @@ projeto/
 Square.jsx
 
 Começa importanto o estilo que será usado no componente Square
+
 import style from './Square.module.css';
 
 Cria uma função que exporta um botão HTML que raltera de valor quando o usuário clicar nele
+
 function Square({ value, onClick }) {
   return (
     <button className={style.square} onClick={onClick}>
