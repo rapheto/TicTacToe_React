@@ -10,7 +10,8 @@ TIC TAC TOE
 ---------------------------------------------
 
 Estrutura do projeto
-'''
+
+```
   projeto/
   ├── src/
   │   ├── Square.jsx 
@@ -20,8 +21,10 @@ Estrutura do projeto
   │   └── main.jsx         
   ├── public/
   │   └── index.html        
-  └── README.md             
-'''
+  └── README.md
+
+```
+
 ---------------------------------------------
 Square.jsx
 
