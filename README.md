@@ -1,7 +1,8 @@
 TIC TAC TOE
 
 **Este projeto pertence a equipe Quatro Cantos**
-##Alunos:
+
+Alunos:
 
 -Alessandra Barbosa
 
