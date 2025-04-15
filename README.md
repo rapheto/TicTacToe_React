@@ -55,22 +55,16 @@ App.jsx
 Começamos importando uma variável de estado, os estilos css e o componente Square.
 
 
-import { useState } from 'react';
-
-
-import style from './App.module.css';
-
-
-import { Square } from './Square.jsx';
+    import { useState } from 'react';
+    import style from './App.module.css';
+    import { Square } from './Square.jsx';
 
 
 Cria uma array de 9 posições e usa o indice como valor para os quadrados, que serão modificadas com o use state.
 
 
-const [board1, setBoard1] = useState([0, 1, 2, 3, 4, 5, 6, 7, 8]);
-
-
-const [board2, setBoard2] = useState([0, 1, 2, 3, 4, 5, 6, 7, 8]);
+    const [board1, setBoard1] = useState([0, 1, 2, 3, 4, 5, 6, 7, 8]);
+    const [board2, setBoard2] = useState([0, 1, 2, 3, 4, 5, 6, 7, 8]);
 
 
 Criamos uma função que faz uma cópia do array, verifica se o quadrado clicado já foi marcado e altera o valor.
