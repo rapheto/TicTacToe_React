@@ -2,9 +2,13 @@ TIC TAC TOE
 
 **Este projeto pertence a equipe Quatro Cantos**
 ##Alunos:
+
 -Alessandra Barbosa
+
 -Raphael Miranda
+
 -Rayane Cavalcanti
+
 -Samuel Araujo
 
 ---------------------------------------------
